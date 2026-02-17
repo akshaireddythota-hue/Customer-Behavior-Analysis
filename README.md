@@ -1,88 +1,82 @@
-📊 Customer Behaviour & Business Intelligence Project
+📊 Customer Behaviour & Business Intelligence (Power BI)
 📌 Project Overview
 
-This project analyses customer behaviour for a regional retail organisation in the West of Ireland using business analytics and intelligence techniques. The objective is to transform raw customer data into actionable insights to support strategic decision-making and sustainable retail growth.
+This project analyses customer behaviour for a regional retail organisation in the West of Ireland using Business Intelligence techniques. The objective is to transform raw customer data into actionable insights that support strategic decision-making and sustainable retail growth.
 
 🎯 Objectives
 
 Clean and preprocess customer data
 
-Perform exploratory data analysis (EDA)
+Perform exploratory data analysis
 
-Apply descriptive analytics
+Develop interactive dashboards in Power BI
 
-Build a regression model to predict spending behaviour
+Apply descriptive and predictive analysis (regression-based insights)
 
-Evaluate ethical, legal, and GDPR considerations
+Evaluate GDPR and ethical considerations
 
-Provide strategic business recommendations
+Provide data-driven business recommendations
+
+🛠 Tools Used
+
+Microsoft Power BI
+
+Microsoft Excel
+
+Data Visualisation Techniques
+
+Regression Analysis (implemented within BI tools)
 
 📂 Dataset
 
-File: Customer_Data.xlsx
-
-Contains demographic, socioeconomic, and purchasing information
+Customer_Data.xlsx
 
 6000+ customer records
 
-🛠 Tools & Technologies
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib / Seaborn
-
-Scikit-learn
-
-Jupyter Notebook
+Demographic, socioeconomic, and purchasing data
 
 📈 Key Insights
 
-Income is the strongest predictor of spending behaviour.
+Income is the strongest predictor of customer spending.
 
 Education level and employment stability positively influence spending.
 
-Clear opportunity for customer segmentation.
+Middle-income working-age customers (30–55) form the core segment.
 
-Ethical data governance is essential under GDPR.
+Strong positive relationship between income and car price.
 
-📊 Model Used
+Ethical data use and GDPR compliance are essential.
 
-Multiple Linear Regression model to predict customer spending (car price) using:
+📊 Dashboard Features
 
-Income
+Age distribution visualisation
 
-Age
+Income distribution analysis
 
-Education Level
+Income vs Car Price scatter plot
 
-Household Size
+Customer segmentation insights
 
-Years with Employer
+Interactive filters and slicers
 
-⚖ Ethical Considerations
+⚖ Ethical & Legal Considerations
 
 GDPR compliance
 
 Data minimisation
 
-Avoidance of algorithmic bias
+Avoidance of discriminatory segmentation
 
-Responsible customer segmentation
+Responsible use of demographic variables
 
 📎 Project Structure
 
-See folders for:
+/data → Dataset
 
-Data
+/powerbi → Power BI dashboard file
 
-Report
+/report → Final academic report
 
-Visualisations
-
-Code
+/visuals → Dashboard screenshots
 
 👤 Akshai
